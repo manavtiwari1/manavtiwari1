@@ -86,37 +86,6 @@ A Full-Stack Portfolio showcasing:
 
 ---
 
-## 💼 Experience
-
-### Backend Sales Operator Intern
-**Comnet IT Vision India Pvt Ltd**
-📍 Nehru Place, Delhi
-
-- Managed Sales Orders & Purchase Orders
-- Worked with Tally Prime Gold
-- Maintained Company Ledgers
-- Supported backend sales operations
-
----
-
-## 🏆 Leadership & Activities
-
-### Technical Executive
-**Websters – Computer Science Society**
-
-- Organized Hackathons
-- Conducted Data Analysis Competitions
-- Managed Technical Operations
-
-### Social Media Executive
-**Anchorage – Cultural Committee**
-
-- Secured Sponsorship Leads
-- Managed Event Logistics
-- Coordinated Large-Scale College Events
-
----
-
 ## 📚 Certifications
 
 - Artificial Intelligence & Prompt Engineering
@@ -139,7 +108,7 @@ A Full-Stack Portfolio showcasing:
 
 📧 Email: tiwarimanav118@gmail.com
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/manav-tiwari-0185651b2/
 
 🌐 CVMind AI: https://cv-mind-ai.vercel.app/
 
